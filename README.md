@@ -8,4 +8,5 @@
 * Rank: **18th** / 351 Teams (Top 5%) 
 * Private Leaderboard Score: **8.92** (Euclidean distance)
 
-
+### [競賽心得部落格文章](https://haosquare.com/aidea-foot-image-analysis/)
+### [資料增強教學文章](https://haosquare.com/albumentations-keypoints-augmentation/)
